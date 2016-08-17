@@ -1,0 +1,16 @@
+/* CSS Document */
+.lk:link {
+	text-decoration: none;
+	color: #6699CC;
+}
+.lk:visited {
+	text-decoration: none;
+	color: #6699CC;
+}
+.lk:hover {
+	text-decoration: none;
+}
+.lk:active {
+	text-decoration: none;
+	color: #CCCCFF;
+}

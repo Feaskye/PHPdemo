@@ -1,0 +1,17 @@
+/* CSS Document */
+.top:link {
+	color: #ffffff;
+	text-decoration: none;
+}
+.top:visited {
+	text-decoration: none;
+	color: #ffffff;
+}
+.top:hover {
+	text-decoration: none;
+	color:#FFFFFF;
+}
+.top:active {
+	text-decoration: none;
+	color: #CCCCFF;
+}
